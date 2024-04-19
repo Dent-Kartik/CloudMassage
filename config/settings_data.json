@@ -516,7 +516,7 @@
             "type": "drop",
             "settings": {
               "title": "Shop",
-              "url": "https:\/\/rangerready.com\/collections\/all",
+              "url": "https:\/\/cloudmassage.com\/products\/shiatsu-foot-calf-massager-2-with-remote",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -526,6 +526,23 @@
               "lb_cl": "",
               "lazy_mn": true,
               "pos_sub": "bottom-start",
+              "pos": "left"
+            }
+          },
+          "drop_NrY76k": {
+            "type": "drop",
+            "settings": {
+              "title": "About",
+              "url": "shopify:\/\/pages\/about-us",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
               "pos": "left"
             }
           },
@@ -554,26 +571,13 @@
               "lb": "",
               "lb_cl": ""
             }
-          },
-          "7be36556-8f02-4ac7-9abc-7de59e33c050": {
-            "type": "base",
-            "settings": {
-              "title": "About Us",
-              "url": "shopify:\/\/pages\/about-us",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": ""
-            }
           }
         },
         "block_order": [
           "bc56631a-9ba2-4375-8289-27c26fc8f484",
+          "drop_NrY76k",
           "ce52926d-7cb6-42d8-a114-124eb9f5e307",
-          "45db3a5d-08e6-4b20-9a0f-3ecb8a7701aa",
-          "7be36556-8f02-4ac7-9abc-7de59e33c050"
+          "45db3a5d-08e6-4b20-9a0f-3ecb8a7701aa"
         ],
         "custom_css": [
 
