@@ -35,6 +35,12 @@ t4sp-theme t4s-wrapper__{{ settings.general_layout }} rtl_{{ isRTL }} swatch_col
   <head>
  {%- if content_for_header contains 'tapita-seo-script-tags' -%}{%- include 'tapita-seo-schema' -%}{%- endif -%} 
 
+  <meta name="google-site-verification" content="bVLM5fucJMqKPaW9uPP2wOc_DSW2iJwnS8kKRF4BWqc" />
+  <meta name="google-site-verification" content="JnXGHZXnoEofLVRTV3JIbvFIwzHk_AUXJc50kq2b5Eo" />  
+  <meta name="google-site-verification" content="ZRxsW2eeNQ36FSbyA9lqqlSMU9J9oYrDn2KXtrxP904" />
+  
+  <!--   Facebook Snippet -->
+  <meta name=“facebook-domain-verification” content=“islwrqktcgw3j8ply9df67ldbtmxox” />
     <!-- OneTrust Cookies Consent Notice start -->
     <script
       src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
@@ -45,6 +51,60 @@ t4sp-theme t4s-wrapper__{{ settings.general_layout }} rtl_{{ isRTL }} swatch_col
     <script type="text/javascript">
       function OptanonWrapper() { }
     </script>
+    <script>
+      /* >> TriplePixel :: start*/
+      ~function(W,H,A,L,E){try{A.setItem(H,1+(0|A.getItem(H)||0)),W.includes("⇈")&&A.setItem(H+"Stg",1+(0|A.getItem(H+"Stg")||0))}catch(e){}function O(T,R){void 0===R&&(R=!1),H=new XMLHttpRequest,H.open("GET","//triplewhale-pixel.web.app/triplepx.txt?"+~(Date.now()/9e7),!0),H.send(null),H.onreadystatechange=function(){4===H.readyState&&200===H.status?setTimeout(function(){return eval(H.responseText)},50):(299<H.status||H.status<200)&&T&&!R&&(R=!0,O(T-1))}}A=window,A[H]||(L=function(){return"tp.."+Date.now().toString(36)+Math.random().toString(36)},E=A[H]=function(t,e,n){return W=L(),(E._q=E._q||[]).push([W,e,n]),W},E.ch=W,O(5))}("a","TriplePixel",localStorage);
+      /* << TriplePixel :: end*/
+      </script>
+
+<!--Kubyo_Script-->
+  <script type=“text/plain” class="optanon-category-C0004"
+
+ 
+  src="https://www.zrwike2er.com/scripts/sdk/everflow.js"></script>
+
+<script type=“text/plain” class="optanon-category-C0004"
+
+>
+EF.click({
+  offer_id: EF.urlParameter('oid'),
+  affiliate_id: EF.urlParameter('affid'),
+  sub1: EF.urlParameter('sub1'),
+  sub2: EF.urlParameter('sub2'),
+  sub3: EF.urlParameter('sub3'),
+  sub4: EF.urlParameter('sub4'),
+  sub5: EF.urlParameter('sub5'),
+  uid: EF.urlParameter('uid'),
+  source_id: EF.urlParameter('source_id'),
+  transaction_id: EF.urlParameter('_ef_transaction_id'),
+});
+</script>
+
+
+<!--Flex_Offers_Header_Script-->
+<script>
+(function () {
+var clickRe = /(?:\d+FOF\d+)/i;
+var match = clickRe.exec(window.location.href);
+if (match && match.length > 0) window.localStorage.setItem('sid', match[0]);
+})();</script> 
+<!--End_Flex_Offers_Header_Script-->
+
+  <!--Bing_Conversion_Tracking-->
+  <script (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"56300277"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+  <!--End_Bing_Conversion_Tracking-->
+
+<!--Lucky Orange Tracking Code-->
+<script type='text/javascript'>
+window.__lo_site_id = 278013;
+
+	(function() {
+		var wa = document.createElement('script'); wa.type = 'text/javascript'; wa.async = true;
+		wa.src = 'https://d10lpsik1i8c69.cloudfront.net/w.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(wa, s);
+	  })();
+	</script>
+  <!--End Lucky Orange Tracking Code-->
     <!-- OneTrust Cookies Consent Notice end -->
 {%- if request.page_type == "index" -%}{%assign luvitatu = 1%}{%- endif -%}
 
@@ -187,7 +247,6 @@ var script_loaded=!1;function loadJSscripts(){setTimeout(function(){if(!script_l
       data-bgset="{{ body_img | image_url: width: 1 }}" data-optimumx="2" data-sizes="auto"
     {% endif -%}
   >
-  <h1>Hi</h1>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MNDL38J6"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
