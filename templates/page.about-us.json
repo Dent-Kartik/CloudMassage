@@ -1373,7 +1373,7 @@
           "type": "quote",
           "settings": {
             "heading": "",
-            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "content": "<p><em>“My husband loves the foot massage and uses it every night to help his neuropathy an is very happy. I also use it to help my tired feet and calves as well. I highly recommend this product to anyone who suffers with their feet. I’m actually going to purchase another one for my dad who also suffers from diabetic neuropathy. Thanks again for an amazing product.”<\/em><\/p>",
             "title": "Author's name",
             "pos": "",
             "rating": 5
@@ -1416,7 +1416,7 @@
         "cl_name": "#222222",
         "cl_content": "#878787",
         "cl_bd": "",
-        "cl_bg_item": "",
+        "cl_bg_item": "#ffffff",
         "bdr": 0,
         "content_align": "text-start",
         "col_dk": "3",
@@ -1446,6 +1446,7 @@
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
+        "image_bg": "shopify:\/\/shop_images\/download_6.jpg",
         "mg": ",,50px,",
         "pd": "",
         "mg_tb": "",
