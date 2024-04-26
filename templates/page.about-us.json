@@ -1365,6 +1365,96 @@
         "use_cus_css": true,
         "code_cus_css": ".SectionID .t4s-our-mission__list > *:not(:last-child) {\n  border-top-width: 0px;\n    border-left-width: 0px;    border-bottom-width: 2px;\n    border-right-width: 0px;\n    border-color: rgba(242, 242, 242, 1);\n    border-style: solid;\n}"
       }
+    },
+    "testimonials_EfLB68": {
+      "type": "testimonials",
+      "blocks": {
+        "quote_mBiKbw": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "title": "Author's name",
+            "pos": "",
+            "rating": 5
+          }
+        },
+        "quote_j4y8P8": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "title": "Author's name",
+            "pos": "",
+            "rating": 5
+          }
+        },
+        "quote_mM8FY8": {
+          "type": "quote",
+          "settings": {
+            "heading": "",
+            "content": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
+            "title": "Author's name",
+            "pos": "",
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "quote_mBiKbw",
+        "quote_j4y8P8",
+        "quote_mM8FY8"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "Testimonials",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "ter_des": "1",
+        "cl_name": "#222222",
+        "cl_content": "#878787",
+        "cl_bd": "",
+        "cl_bg_item": "",
+        "bdr": 0,
+        "content_align": "text-start",
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout_des": "1",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1380,6 +1470,7 @@
     "1652060940154cd301",
     "eb3e3fa7-34ca-4faa-b097-9c0d0d1551fb",
     "f61f9ca1-da29-4f7d-a65d-47bb494eb982",
-    "our_mission_faXhy7"
+    "our_mission_faXhy7",
+    "testimonials_EfLB68"
   ]
 }
