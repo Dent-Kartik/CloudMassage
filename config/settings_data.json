@@ -866,10 +866,10 @@
           "btn_config-0": {
             "type": "custom1",
             "settings": {
-              "color_primary": "#ffb100",
+              "color_primary": "#2a385c",
               "color_second": "#ffffff",
-              "color_primary_hover": "#ff4e00",
-              "color_second_hover": "#ffffff"
+              "color_primary_hover": "#b7c4ce",
+              "color_second_hover": "#0d1621"
             }
           },
           "btn_config-1": {
@@ -1917,6 +1917,9 @@
         },
         "block_order": [
           "06eaa184-e59c-4525-ac5d-eac6fc91f3e8"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
         }
