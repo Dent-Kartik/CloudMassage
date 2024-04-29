@@ -17,14 +17,14 @@
     "mobile_nav_type": "1",
     "only_icon": true,
     "heading_color": "#0b0f0e",
-    "text_color": "#0b0f0e",
-    "accent_color": "#e87200",
+    "text_color": "#0d1621",
+    "accent_color": "#2a385c",
     "secondary_color": "#1e4c2f",
     "price_primary": "#323e48",
     "price_secondary": "#1d9e34",
     "link_color": "#0b0f0e",
-    "link_color_hover": "#e87200",
-    "btn_bg": "#e87200",
+    "link_color_hover": "#2a385c",
+    "btn_bg": "#ffffff",
     "btn_color": "#fff",
     "cl_lazyload": "#e87200",
     "sw_primary": "#effffe",
@@ -272,7 +272,7 @@
           "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf": {
             "type": "custom_text",
             "settings": {
-              "text": "Ranger Ready was invented in Norwalk, Connecticut, just south of the epicenter of Lyme disease. Ranger Ready products are proudly made in the U.S., using local family-owned businesses. Ranger Ready bottles and packaging are 100% recyclable.\n<br><br>We put our fans first and strive to always deliver 5-star customer service.",
+              "text": "At Cloud Massage™, we believe in the importance of everyday comfort. Our mission is to deliver well-deserved relief and recovery at home to those who lead busy lives, whether they are a teacher, athlete, retail worker, or anyone on their feet all day. That’s why we offer massage tools that target tough and tender muscles, so that long days turn into relaxing and restorative nights.",
               "remove_br_tag": false,
               "tag": "p",
               "fontf": "inherit",
@@ -294,8 +294,8 @@
           "18833cd0-cfef-4607-abd0-ae141bd0fd41": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "",
-              "menu": "",
+              "col_heading": "Support",
+              "menu": "support",
               "menu_style": "1",
               "col_border": "none",
               "col_dk": "16",
@@ -313,8 +313,8 @@
           "footer-4": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Customer Service",
-              "menu": "",
+              "col_heading": "LEARN MORE",
+              "menu": "footer",
               "menu_style": "1",
               "col_border": "none",
               "col_dk": "15",
@@ -373,6 +373,7 @@
           },
           "91fda933-0e19-49b6-9810-b031e272d0cf": {
             "type": "bl_col",
+            "disabled": true,
             "settings": {
               "col_heading": "Information",
               "menu": "",
@@ -498,7 +499,7 @@
           "fontsize": 15,
           "cl": "#ffffff",
           "cl_a_hover": "#ffffff",
-          "bg": "#1c3e29",
+          "bg": "#0d1621",
           "bg_op": 100,
           "show_border": false,
           "bd_cl": "#000000",
@@ -2491,6 +2492,9 @@
           "custom_text_kBckMm",
           "newsletter_yrP9di"
         ],
+        "custom_css": [
+
+        ],
         "settings": {
           "design_heading": "1",
           "heading_align": "t4s-text-center",
@@ -2502,7 +2506,7 @@
           "news_overlay": "#000000",
           "news_overlay_opacity": 0,
           "layout": "t4s-container-wrap",
-          "cl_bg": "#e87200",
+          "cl_bg": "#2a385c",
           "cl_bg_gradient": "",
           "parallax": false,
           "mg": "",
