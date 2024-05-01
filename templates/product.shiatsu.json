@@ -1049,6 +1049,69 @@
         "use_cus_css": true,
         "code_cus_css": "@media (min-width:768px){\n.SectionID h3 span{color:#0B0F0E;font-size:38px;}\n.t4s-blog-button-heading{font-size:18px;}\n}\n\n.SectionID img{border-radius:8px;}\n.SectionID  h3.t4s-section-title.t4s-title{padding:0!important;}\n@media (max-width:767px){\n.SectionID h3 span{color:#0B0F0E;}\n.SectionID h3.t4s-section-title.t4s-title{margin-bottom:0;}\n}"
       }
+    },
+    "accordion_QBT67U": {
+      "type": "accordion",
+      "blocks": {
+        "accor_item_rnAhc8": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "PRODUCT BENEFITS",
+            "content": "<p>Pain Relief and Relaxation at Home For:<\/p><ul><li>Swelling - gently treat swollen feet and ankles<\/li><li>Diabetic Neuropathy - improve blood flow with heat and compression<\/li><li>Plantar Fasciitis - reduce inflammation with 3 intensity levels<\/li><li>Heel Spurs - ease out of a long day on your feet with Rolling Massage<\/li><li>Stiff Joints- loosen joints with Swaying Function<\/li><li>Athletic Recovery - ease muscle tension with 5 massage settings<\/li><\/ul>"
+          }
+        },
+        "accor_item_jxLtFz": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "TECHNICAL SPECS",
+            "content": "<p>Dimensions: 22 x 11 x 17.7 inches<br\/>Weight: 22lbs<br\/>Massage Settings: 5<br\/>Intensity Levels: 3<\/p>"
+          }
+        },
+        "accor_item_AWzPL4": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "HOW TO USE",
+            "content": "<p>After you have plugged in your massager, adjust the bar to the position that you prefer. Put your ankles, feet or calves in the machine and switch on the power. You will start feeling a kneading movement that will alleviate the stress and tension present in your muscles. Along with the position of the massager, you can also choose your preferred mode and the intensity level of the massage. For best results, we highly recommend wearing socks during foot massages.<\/p><p>For more information, please <a href=\"https:\/\/cloudmassage.com\/pages\/contact-us\"><span style=\"text-decoration:underline\">contact us<\/span><\/a> or view our <a href=\"https:\/\/cloudmassage.com\/pages\/how-to-use\">quick start guide and video <span style=\"text-decoration:underline\">here<\/span><\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accor_item_rnAhc8",
+        "accor_item_jxLtFz",
+        "accor_item_AWzPL4"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "Find relaxation and soothing relief at home with the Cloud Massage foot and leg massager! Designed to target the feet, ankles, and calves, this massager helps relieve tension through deep-kneading action using the latest Shiatsu technology.",
+        "tophead_mb": 30,
+        "accor_des": "2",
+        "title_cl": "#222",
+        "bg_title_cl": "#f6f6f8",
+        "title_active_cl": "#000",
+        "bg_title_active_cl": "#f6f6f8",
+        "content_cl": "#878787",
+        "bg_content_cl": "#fff",
+        "content_align": "t4s-text-start",
+        "auto_active": true,
+        "layout": "t4s-container-wrap",
+        "custom_width": 1000,
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1064,6 +1127,7 @@
     "9f87910c-c229-4870-a34d-b30c3e3613f4",
     "1a5f18e3-6d85-43b3-a67d-fd565e3561bd",
     "34eab03a-b1c4-4c29-9079-64f6e663d12a",
-    "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691"
+    "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691",
+    "accordion_QBT67U"
   ]
 }
