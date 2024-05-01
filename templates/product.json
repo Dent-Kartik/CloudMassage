@@ -569,6 +569,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "show": true,
         "design_heading": "1",
@@ -977,6 +978,7 @@
     },
     "67aee4f6-c98c-4da7-9ea9-8fe5b50e0691": {
       "type": "blog-post",
+      "disabled": true,
       "settings": {
         "design_heading": "20",
         "heading_align": "t4s-text-center",
