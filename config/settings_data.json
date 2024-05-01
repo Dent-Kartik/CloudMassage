@@ -121,41 +121,12 @@
       "bottom-bar": {
         "type": "bottom-bar",
         "blocks": {
-          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3": {
-            "type": "bl_col",
-            "settings": {
-              "col_heading": "",
-              "menu": "",
-              "col_dk": "6",
-              "col_tb": "6",
-              "col_mb": "12",
-              "content_align": "t4s-text-md-center",
-              "padding_inner": "",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-center",
-              "padding_inner_mb": ""
-            }
-          },
-          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
-            "type": "copyR",
-            "settings": {
-              "text": "<span class=\"t4s-cp\">© Cloud Massage [year]. All Rights Reserved<\/span>",
-              "mgb": 0,
-              "mgb_mb": 0
-            }
-          },
-          "928d040d-c342-407b-a5bd-d22abceea89e": {
-            "type": "cus_menu",
-            "settings": {
-              "menu": ""
-            }
-          },
           "619aa20c-4686-47ef-87bb-2ce49e30c499": {
             "type": "bl_col",
             "settings": {
               "col_heading": "",
               "menu": "",
-              "col_dk": "6",
+              "col_dk": "12",
               "col_tb": "6",
               "col_mb": "12",
               "content_align": "t4s-text-md-center",
@@ -173,6 +144,44 @@
               "hidden_mobile": false,
               "mgb": 20,
               "mgb_mb": 10
+            }
+          },
+          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "col_dk": "12",
+              "col_tb": "6",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-center",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-center",
+              "padding_inner_mb": ""
+            }
+          },
+          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08": {
+            "type": "copyR",
+            "settings": {
+              "text": "<span class=\"t4s-cp\">© Cloud Massage [year]. All Rights Reserved<\/span>",
+              "mgb": 0,
+              "mgb_mb": 0
+            }
+          },
+          "bl_col_gerxRT": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "bottom-menu",
+              "col_dk": "12",
+              "col_tb": "12",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
             }
           },
           "2a71c52f-c06b-46f3-be33-acb8f3db2a33": {
@@ -197,11 +206,11 @@
           }
         },
         "block_order": [
-          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3",
-          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08",
-          "928d040d-c342-407b-a5bd-d22abceea89e",
           "619aa20c-4686-47ef-87bb-2ce49e30c499",
           "475378db-f7e5-4857-9e71-995c815a03a8",
+          "2433b4f1-5bdc-49a9-ba42-a51f4eb6d8e3",
+          "b3c6ceca-2d54-4a14-b482-bb86cbf25f08",
+          "bl_col_gerxRT",
           "2a71c52f-c06b-46f3-be33-acb8f3db2a33"
         ],
         "settings": {
