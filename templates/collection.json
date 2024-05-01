@@ -238,7 +238,7 @@
         "30594d23-d644-4653-9545-9ff769d2e6ab"
       ],
       "settings": {
-        "show_desc": true,
+        "show_desc": false,
         "position_desc": "2",
         "product_des": "2",
         "show_vendor": false,
@@ -347,6 +347,7 @@
     },
     "1697660438e711908b": {
       "type": "apps",
+      "disabled": true,
       "settings": {
       }
     }
