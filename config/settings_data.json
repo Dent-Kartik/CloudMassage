@@ -240,14 +240,14 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-8": {
+          "footer-4": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "",
-              "menu": "",
+              "col_heading": "LEARN MORE",
+              "menu": "footer",
               "menu_style": "1",
               "col_border": "none",
-              "col_dk": "3",
+              "col_dk": "4",
               "col_tb": "6",
               "col_mb": "12",
               "content_align": "t4s-text-md-start",
@@ -259,20 +259,51 @@
               "padding_inner_mb": ""
             }
           },
-          "1ba4b938-4484-4256-9fd2-1d3c7d58213f": {
-            "type": "image",
+          "footer-8": {
+            "type": "bl_col",
             "settings": {
-              "link_img": "",
-              "img_width": 80,
-              "img_width_mb": 80,
-              "mgb": 20,
-              "mgb_mb": 20
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_border": "none",
+              "col_dk": "4",
+              "col_tb": "4",
+              "col_mb": "12",
+              "content_align": "t4s-text-md-start",
+              "padding_inner": "5px,0,0,0",
+              "content_align_tb": "t4s-text-md-start",
+              "padding_inner_tb": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "d319ce19-e078-4958-b353-44ba66439d6f": {
+            "type": "custom_text",
+            "settings": {
+              "text": "SIGN UP AND SAVE",
+              "remove_br_tag": false,
+              "tag": "h4",
+              "fontf": "inherit",
+              "text_cl": "#0b0f0e",
+              "text_fs": 16,
+              "text_lh": 22,
+              "text_fw": 400,
+              "text_ls": 0,
+              "font_italic": false,
+              "text_shadow": false,
+              "text_mgb": 15,
+              "hidden_mobile": false,
+              "text_fs_mb": 16,
+              "text_lh_mb": 24,
+              "text_ls_mb": 0,
+              "text_mgb_mobile": 10
             }
           },
           "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf": {
             "type": "custom_text",
             "settings": {
-              "text": "At Cloud Massage™, we believe in the importance of everyday comfort. Our mission is to deliver well-deserved relief and recovery at home to those who lead busy lives, whether they are a teacher, athlete, retail worker, or anyone on their feet all day. That’s why we offer massage tools that target tough and tender muscles, so that long days turn into relaxing and restorative nights.",
+              "text": "Subscribe to get special offers, giveaways, and helpful tips & tricks sent straight to your inbox.",
               "remove_br_tag": false,
               "tag": "p",
               "fontf": "inherit",
@@ -291,6 +322,54 @@
               "text_mgb_mobile": 10
             }
           },
+          "newsletter_mYeB9e": {
+            "type": "newsletter",
+            "settings": {
+              "form_width": 0,
+              "form_width_mb": 0,
+              "newl_des": "1",
+              "news_align": "center",
+              "newl_size": "small",
+              "btn_icon": false,
+              "input_cl": "#878787",
+              "border_cl": "#000",
+              "btn_cl": "#ffffff",
+              "btn_bg_cl": "#222222",
+              "btn_hover_cl": "#ffffff",
+              "btn_hover_bg_cl": "#56CFE1",
+              "hidden_mobile": false,
+              "mgb": 15,
+              "mgb_mb": 10
+            }
+          },
+          "cus_socials_A4m8QM": {
+            "type": "cus_socials",
+            "settings": {
+              "title": "",
+              "social_mode": "1",
+              "social_style": "1",
+              "social_size": "small",
+              "bd_radius": 0,
+              "use_color_set": false,
+              "icon_cl": "#878787",
+              "bg_cl": "#222222",
+              "space_h_item": "5",
+              "space_v_item": "5",
+              "space_h_item_mb": "2",
+              "space_v_item_mb": "2"
+            }
+          },
+          "1ba4b938-4484-4256-9fd2-1d3c7d58213f": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "link_img": "",
+              "img_width": 80,
+              "img_width_mb": 80,
+              "mgb": 20,
+              "mgb_mb": 20
+            }
+          },
           "18833cd0-cfef-4607-abd0-ae141bd0fd41": {
             "type": "bl_col",
             "settings": {
@@ -298,29 +377,10 @@
               "menu": "support",
               "menu_style": "1",
               "col_border": "none",
-              "col_dk": "16",
-              "col_tb": "0",
+              "col_dk": "4",
+              "col_tb": "15",
               "col_mb": "12",
-              "content_align": "t4s-text-md-start",
-              "padding_inner": "5px,0,0,0",
-              "content_align_tb": "t4s-text-md-start",
-              "padding_inner_tb": "",
-              "col_heading_mobile": "",
-              "content_align_mb": "t4s-text-start",
-              "padding_inner_mb": ""
-            }
-          },
-          "footer-4": {
-            "type": "bl_col",
-            "settings": {
-              "col_heading": "LEARN MORE",
-              "menu": "footer",
-              "menu_style": "1",
-              "col_border": "none",
-              "col_dk": "15",
-              "col_tb": "6",
-              "col_mb": "12",
-              "content_align": "t4s-text-md-start",
+              "content_align": "t4s-text-lg-start",
               "padding_inner": "5px,0,0,0",
               "content_align_tb": "t4s-text-md-start",
               "padding_inner_tb": "",
@@ -331,6 +391,7 @@
           },
           "footer-10": {
             "type": "bl_col",
+            "disabled": true,
             "settings": {
               "col_heading": "General Information",
               "menu": "",
@@ -346,29 +407,6 @@
               "col_heading_mobile": "",
               "content_align_mb": "t4s-text-start",
               "padding_inner_mb": ""
-            }
-          },
-          "d319ce19-e078-4958-b353-44ba66439d6f": {
-            "type": "custom_text",
-            "disabled": true,
-            "settings": {
-              "text": "Subscribe to get special offers, free giveaways, and once-in-a-lifetime deals.",
-              "remove_br_tag": false,
-              "tag": "p",
-              "fontf": "inherit",
-              "text_cl": "#ffffff",
-              "text_fs": 16,
-              "text_lh": 22,
-              "text_fw": 400,
-              "text_ls": 0,
-              "font_italic": false,
-              "text_shadow": false,
-              "text_mgb": 15,
-              "hidden_mobile": false,
-              "text_fs_mb": 16,
-              "text_lh_mb": 24,
-              "text_ls_mb": 0,
-              "text_mgb_mobile": 10
             }
           },
           "91fda933-0e19-49b6-9810-b031e272d0cf": {
@@ -393,6 +431,7 @@
           },
           "html_pU73Rw": {
             "type": "html",
+            "disabled": true,
             "settings": {
               "html_content": "<button id=\"ot-sdk-btn\" class=\"ot-sdk-show-settings\" style=\"color: inherit; border:none; background: transparent; text-decoration: underline\">Review My Cookies<\/button>",
               "hidden_mobile": false
@@ -400,13 +439,15 @@
           }
         },
         "block_order": [
-          "footer-8",
-          "1ba4b938-4484-4256-9fd2-1d3c7d58213f",
-          "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf",
-          "18833cd0-cfef-4607-abd0-ae141bd0fd41",
           "footer-4",
-          "footer-10",
+          "footer-8",
           "d319ce19-e078-4958-b353-44ba66439d6f",
+          "6a37dfd9-7f2c-4ef6-baab-2bc5ed4913cf",
+          "newsletter_mYeB9e",
+          "cus_socials_A4m8QM",
+          "1ba4b938-4484-4256-9fd2-1d3c7d58213f",
+          "18833cd0-cfef-4607-abd0-ae141bd0fd41",
+          "footer-10",
           "91fda933-0e19-49b6-9810-b031e272d0cf",
           "html_pU73Rw"
         ],
