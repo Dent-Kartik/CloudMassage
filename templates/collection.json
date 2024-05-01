@@ -238,7 +238,8 @@
         "30594d23-d644-4653-9545-9ff769d2e6ab"
       ],
       "custom_css": [
-        ".opinew-stars-plugin-product-list{text-align:left !important;}"
+        ".opinew-stars-plugin-product-list {text-align: left !important;}",
+        ".t4s-product-title{font-size: 14px; font-weight: 400;}"
       ],
       "settings": {
         "show_desc": false,
