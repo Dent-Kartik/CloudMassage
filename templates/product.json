@@ -12,6 +12,18 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "txt_tr_pr": "none",
+            "fnt_df_pr": "1",
+            "size_pr": 26,
+            "fw_pr": 700,
+            "lh_pr": 0,
+            "ls_pr": 0,
+            "pr_title_color": "#000f41"
+          }
+        },
         "meta": {
           "type": "meta",
           "settings": {
@@ -23,18 +35,6 @@
             "show_available": false,
             "show_category": false,
             "show_tags": false
-          }
-        },
-        "title": {
-          "type": "title",
-          "settings": {
-            "txt_tr_pr": "none",
-            "fnt_df_pr": "1",
-            "size_pr": 26,
-            "fw_pr": 700,
-            "lh_pr": 0,
-            "ls_pr": 0,
-            "pr_title_color": "#000f41"
           }
         },
         "46f48626-36c1-4c15-85cf-3ae47a93c16e": {
@@ -95,6 +95,7 @@
         },
         "custom_liquid_kQdCKR": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<div class=\"customrw\"><\/div>"
           }
@@ -124,15 +125,15 @@
         "form": {
           "type": "form",
           "settings": {
-            "selector_mode": "block",
+            "selector_mode": "circle",
             "color_mode": "variant_image is-sw-cl__round",
             "enable_fit_ratio_img": false,
             "color_size": "exlarge",
             "show_qty": true,
             "enable_wishlist": true,
             "enable_compare": false,
-            "btn_atc_full": false,
-            "pr_btn_round": 8,
+            "btn_atc_full": true,
+            "pr_btn_round": 40,
             "ani": "none",
             "time": 6,
             "btn_txt": "3",
@@ -235,24 +236,17 @@
         },
         "tab_html_gnhVpi": {
           "type": "tab_html",
+          "disabled": true,
           "settings": {
             "title": "Ingredients",
-            "content": "",
-            "page": ""
-          }
-        },
-        "tab_html_8tU9M8": {
-          "type": "tab_html",
-          "settings": {
-            "title": "Scent",
             "content": "",
             "page": ""
           }
         }
       },
       "block_order": [
-        "meta",
         "title",
+        "meta",
         "46f48626-36c1-4c15-85cf-3ae47a93c16e",
         "description",
         "152e7505-1077-4ecb-956c-1f52beee2fd8",
@@ -266,8 +260,7 @@
         "size_delivery_ask",
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8",
         "94011ade-ec25-4d68-b37a-70660ede49dd",
-        "tab_html_gnhVpi",
-        "tab_html_8tU9M8"
+        "tab_html_gnhVpi"
       ],
       "custom_css": [
         ".t4s-tab-wrapper {font-weight: 500; margin-bottom: 50px;}"
@@ -302,10 +295,10 @@
         "dots_round": true,
         "dots_space": 9,
         "dots_hidden_mobile": false,
-        "tabs_design": "tab",
-        "tabs_design_mb": "tab",
+        "tabs_design": "accordion",
+        "tabs_design_mb": "accordion",
         "tabs_position": "inner",
-        "enable_first_tab": true,
+        "enable_first_tab": false,
         "tabs_layout_fix": "full",
         "bg": "#f6f6f8",
         "bg_mb": "#ffffff",
