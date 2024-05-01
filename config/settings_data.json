@@ -240,6 +240,36 @@
       "footer": {
         "type": "footer",
         "blocks": {
+          "bl_col_Kap6n9": {
+            "type": "bl_col",
+            "settings": {
+              "col_heading": "",
+              "menu": "",
+              "menu_style": "1",
+              "col_border": "none",
+              "col_dk": "12",
+              "col_tb": "12",
+              "col_mb": "12",
+              "content_align": "t4s-text-lg-start",
+              "padding_inner": "",
+              "content_align_tb": "t4s-text-md-start",
+              "padding_inner_tb": "",
+              "col_heading_mobile": "",
+              "content_align_mb": "t4s-text-start",
+              "padding_inner_mb": ""
+            }
+          },
+          "image_MWPhEB": {
+            "type": "image",
+            "settings": {
+              "image_child": "shopify:\/\/shop_images\/Cloud_Massage_Logo.png",
+              "link_img": "\/",
+              "img_width": 200,
+              "img_width_mb": 0,
+              "mgb": 20,
+              "mgb_mb": 20
+            }
+          },
           "footer-4": {
             "type": "bl_col",
             "settings": {
@@ -439,6 +469,8 @@
           }
         },
         "block_order": [
+          "bl_col_Kap6n9",
+          "image_MWPhEB",
           "footer-4",
           "footer-8",
           "d319ce19-e078-4958-b353-44ba66439d6f",
@@ -450,6 +482,9 @@
           "footer-10",
           "91fda933-0e19-49b6-9810-b031e272d0cf",
           "html_pU73Rw"
+        ],
+        "custom_css": [
+
         ],
         "settings": {
           "sticky": false,
