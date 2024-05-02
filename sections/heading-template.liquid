@@ -35,7 +35,7 @@
         {% if template.name != 'collection' %}    border-radius: 50px; {% endif %}
         }
    
-      .header-banner{
+      /* .header-banner{
          {% if collection.metafields.custom.mobile_banner != blank %}
             background-image:url("{{ collection.metafields.custom.mobile_banner | img_url:"original" }}") !important;
            {% elsif collection.handle == 'all' %}
@@ -43,7 +43,7 @@
         {% elsif template.name == 'collection' %}
            display:none;
              {% endif %}
-          }
+          } */
     
       </style>
     {%- when 'search' -%}
