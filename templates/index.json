@@ -985,7 +985,7 @@
         "item_E34Wn3"
       ],
       "custom_css": [
-        "h3 {color: white; font-weight:400 !important;}"
+        "h3 {color: white; font-weight: 400 !important;}"
       ],
       "settings": {
         "design_heading": "1",
@@ -1033,7 +1033,7 @@
         "cl_bg": "",
         "cl_bg_gradient": "",
         "image_bg": "shopify:\/\/shop_images\/download_17.jpg",
-        "mg": ",,50px,",
+        "mg": "",
         "pd": "50px,0,50px,0",
         "mg_tb": "",
         "pd_tb": "",
