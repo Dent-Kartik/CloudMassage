@@ -561,8 +561,8 @@
           "435a9eb6-413b-4cf0-8f9f-1359395beee8": {
             "type": "text",
             "settings": {
-              "text": "<p>Due to higher than anticipated demand for our products, we are completely out of stock! We are working hard to restock our best-sellers ASAP, but we apologize for any inconvenience.<\/p>",
-              "adding_border": false,
+              "text": "<p><strong>Take an extra $120 off our best-selling shiatsu foot massager  <\/strong><a href=\"\/products\/shiatsu-foot-calf-massager-2-with-remote\" title=\"Shiatsu Foot & Calf Massager with Remote\">CODE: CLOUD120<\/a><\/p>",
+              "adding_border": true,
               "countdown": "2023\/12\/26",
               "txt_day": "days",
               "dayx": 0,
