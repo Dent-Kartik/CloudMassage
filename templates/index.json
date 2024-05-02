@@ -141,7 +141,7 @@
             "button_icon_w_mb": 0,
             "fsbutton_mb": 14,
             "button_mh_mb": 40,
-            "button_pd_lr_mb": 100,
+            "button_pd_lr_mb": 50,
             "button_ls_mb": 0,
             "button_mgb_mb": 0,
             "animation": "none"
