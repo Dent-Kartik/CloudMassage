@@ -706,6 +706,35 @@
         "code_cus_css": ""
       }
     },
+    "top_heading_kKn9V3": {
+      "type": "top_heading",
+      "blocks": {
+        "bl_heading_jadUcQ": {
+          "type": "bl_heading",
+          "settings": {
+            "top_heading": "The internet's favorite Shiatsu Massage Machine"
+          }
+        }
+      },
+      "block_order": [
+        "bl_heading_jadUcQ"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "1696627529d8e7efa8": {
       "type": "apps",
       "blocks": {
@@ -1051,6 +1080,7 @@
     "iconbox_JgwRcB",
     "image_text_6nRiXc",
     "8b07777e-f541-4c5e-a185-139639de18dc",
+    "top_heading_kKn9V3",
     "1696627529d8e7efa8",
     "7f6dbb86-18ab-4678-82da-9c175a851438",
     "3a736275-0fab-4d45-9bfe-fa6b41dd8d80",
