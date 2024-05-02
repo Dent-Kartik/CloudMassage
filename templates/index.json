@@ -519,7 +519,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID li:before {\n  content: \"\";\n  display: inline-block;\n  height: 35px;\n  width: 35px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/certificate.svg?v=1714628850\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}"
+        "code_cus_css": ".SectionID li:before {\n  content: \"\";\n  display: inline-block;\n  height: 35px;\n  width: 35px;\n  background-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/cert.svg?v=1714644559\");\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 20px;\n}"
       }
     },
     "8b07777e-f541-4c5e-a185-139639de18dc": {
