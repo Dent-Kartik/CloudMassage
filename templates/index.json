@@ -493,6 +493,11 @@
         "bl_image_mdgY7F",
         "bl_text_AbE66r"
       ],
+      "custom_css": [
+        "li {list-style: none;}",
+        "li:after {background: red; width: 80px; height: 80px; position: relative; text-align: center; transform: rotate(20deg);}",
+        "li {list-style-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/certificate.svg?v=1714628850\");}"
+      ],
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
