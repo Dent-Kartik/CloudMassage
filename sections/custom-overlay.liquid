@@ -22,7 +22,7 @@
 .content {
       position: absolute;
     top: 50%;
-    left: 23%;
+    left: {{ section.settings.ch_pos}}% ;
     transform: translate(-50%, -50%);
     width: 30%;
   color: white;
@@ -75,7 +75,7 @@
       "id": "content"
     },{
         "type": "range",
-        "id": "cv_pos",
+        "id": "ch_pos",
         "label": "Content horizontal position",
         "info": "<= 50: Left position , > 50 right position",
         "max": 100,
