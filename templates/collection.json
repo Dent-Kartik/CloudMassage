@@ -183,7 +183,7 @@
         "parallax": false,
         "color": "#000000",
         "overlay": 100,
-        "padding": 100,
+        "padding": 25,
         "paddingmb": 25,
         "mg_b": 0,
         "mg_bmb": 0,
