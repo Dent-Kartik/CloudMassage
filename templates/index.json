@@ -494,9 +494,8 @@
         "bl_text_AbE66r"
       ],
       "custom_css": [
-        ".t4s-align-items-center{align-items: flex-start !important; padding-top:50px;}",
+        ".t4s-align-items-center {align-items: flex-start !important; padding-top: 50px;}",
         "li {list-style: none; font-size: 20px;}",
-        "li:after {background: red; width: 80px; height: 80px; position: relative; text-align: center; transform: rotate(20deg);}",
         "li {list-style-image: url(\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/certificate.svg?v=1714628850\");}"
       ],
       "settings": {
