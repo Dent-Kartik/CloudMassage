@@ -1,3 +1,12 @@
+<div class="">
+  <img src="{{ section.settings.desktop_image | image_url }}" class="desktop">
+  <img src="{{ section.settings.mobile_image | image_url }}" class="mobile">
+
+  <div class="conntet">
+      <h3>{{ section.settings.heading }}</h3>
+      {{ section.settings.content }}
+  </div>
+</div>
 {% schema %}
 {
   "name": "Custom Overlay section",
