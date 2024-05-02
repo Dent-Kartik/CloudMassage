@@ -923,6 +923,122 @@
         "use_cus_css": true,
         "code_cus_css": "@media (min-width:768px){\n.SectionID h3 span{color:#0B0F0E;font-size:38px;}\n.t4s-blog-button-heading{font-size:18px;}\n}\n@media (max-width:767px){\n.SectionID h3 span{color:#0B0F0E;font-size:20px!important;}\n.SectionID h3.t4s-section-title.t4s-title{margin-bottom:0;}\n}\n.SectionID img{border-radius:8px;}\n.SectionID .t4s-post-item .t4s-post-metas,  .SectionID .t4s-post-item .t4s-post-content, .SectionID .t4s-post-item .t4s-post-title\n{display: -webkit-box;\n    -webkit-line-clamp: 2;\n    -webkit-box-orient: vertical;\n    overflow: hidden;}\n.SectionID .t4s-post-item .t4s-post-content p {\n    display: inline;\n}\n.SectionID .t4s-post-item .t4s-post-metas,  .SectionID .t4s-post-item .t4s-post-content,.SectionID.t4s-post-item .t4s-post-title{\n  overflow: hidden;\n   text-overflow: ellipsis;\n   display: -webkit-box;\n   -webkit-line-clamp: 2;\n           line-clamp: 2; \n   -webkit-box-orient: vertical;\n}"
       }
+    },
+    "iconbox_3FF3nf": {
+      "type": "iconbox",
+      "blocks": {
+        "item_PJraHk": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "image_icon": "shopify:\/\/shop_images\/download_11.png",
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "",
+            "des": ""
+          }
+        },
+        "item_NqBKrD": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "image_icon": "shopify:\/\/shop_images\/download_12.png",
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "",
+            "des": ""
+          }
+        },
+        "item_E34Wn3": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "image_icon": "shopify:\/\/shop_images\/download_13.png",
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "",
+            "des": ""
+          }
+        }
+      },
+      "block_order": [
+        "item_PJraHk",
+        "item_NqBKrD",
+        "item_E34Wn3"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "As Featured In",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "source": "get_image",
+        "pd_content": "20px,20px,20px,20px",
+        "layout_des": "1",
+        "col_dk": "3",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "enable_border": false,
+        "enable_shadow": false,
+        "cl_border": "#f6f6f8",
+        "cl_head": "#ffffff",
+        "cl_icon": "#ffffff",
+        "cl_des": "#ffffff",
+        "cl_box": "rgba(0,0,0,0)",
+        "cl_box_hover": "rgba(0,0,0,0)",
+        "cl_content_hover": "rgba(0,0,0,0)",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "image_bg": "shopify:\/\/shop_images\/download_17.jpg",
+        "mg": ",,50px,",
+        "pd": "50px,0,50px,0",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -934,6 +1050,7 @@
     "8b07777e-f541-4c5e-a185-139639de18dc",
     "1696627529d8e7efa8",
     "7f6dbb86-18ab-4678-82da-9c175a851438",
-    "3a736275-0fab-4d45-9bfe-fa6b41dd8d80"
+    "3a736275-0fab-4d45-9bfe-fa6b41dd8d80",
+    "iconbox_3FF3nf"
   ]
 }
