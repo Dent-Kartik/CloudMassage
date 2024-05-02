@@ -141,6 +141,7 @@
         },
         "2beaa989-fb2e-4e44-8c88-c59754803604": {
           "type": "4",
+          "disabled": true,
           "settings": {
             "design_des": "excerpt",
             "length": 10,
@@ -165,7 +166,6 @@
         },
         "929f4f7e-44b0-45b5-94d9-6db41a40b23e": {
           "type": "3",
-          "disabled": true,
           "settings": {
             "breadcrumb_color": "#000f41",
             "brc_mgb": 5
@@ -180,14 +180,14 @@
       "settings": {
         "heading_fullwidth": false,
         "use_specify_image": true,
-        "parallax": true,
+        "parallax": false,
         "color": "#000000",
         "overlay": 100,
         "padding": 100,
         "paddingmb": 25,
         "mg_b": 0,
         "mg_bmb": 0,
-        "content_align": "t4s-text-center",
+        "content_align": "t4s-text-start",
         "bg_pos": "center center",
         "bg_repeat": "no-repeat",
         "bg_size": "cover",
@@ -239,7 +239,7 @@
       ],
       "custom_css": [
         ".opinew-stars-plugin-product-list {text-align: left !important;}",
-        ".t4s-product-title{font-size: 14px; font-weight: 400;}"
+        ".t4s-product-title {font-size: 14px; font-weight: 400;}"
       ],
       "settings": {
         "show_desc": false,
