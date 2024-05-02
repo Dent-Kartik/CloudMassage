@@ -155,6 +155,9 @@
         "2520939e-82a3-4dc8-99c2-7f1ce20e1005",
         "390cb6f8-c5fc-44ed-badf-074a03818e5a"
       ],
+      "custom_css": [
+        "#contentblock-1 {border-radius: 25px !important; padding: 48px;}"
+      ],
       "settings": {
         "se_height": "t4s_ratioadapt_f",
         "custom_dk": true,
@@ -190,8 +193,8 @@
         "pd_tb": "",
         "mg_mb": ",,0px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
+        "use_cus_css": true,
+        "code_cus_css": ".SectionID  .t4s-content-position {\n  border-radius: 25px !important;\n  padding: 10px 25px;}"
       }
     },
     "59f6c9e5-7931-4242-9694-c64146b2c3d0": {
