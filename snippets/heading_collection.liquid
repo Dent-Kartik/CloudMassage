@@ -4,7 +4,6 @@
     {% endif %}
 <div class="page-head t4s-pr t4s-oh page_bg_img {{ se_stts.content_align }}"> 
    <div class="t4s-container t4s-pr t4s-z-100">
-        <h2 class="hidemob" style="padding-top:15px;margin-bottom:15px;{% if collection.metafields.global.text_color!= blank %}color:{{ collection.metafields.global.text_color }};{% endif %}">{{ collection.title | upcase }}</h2>
       {%- for block in se_bks -%}  
       	{%- assign bk_stts = block.settings -%}
         {%- case block.type -%}
