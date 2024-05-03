@@ -1486,9 +1486,9 @@
         "mg_tb": "",
         "pd_tb": "",
         "mg_mb": "",
-        "pd_mb": "",
+        "pd_mb": "0px,50px,0px,50px",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID .heading-testimonials-star  {\n    width: 55%;\nmargin: 0 auto;\n}\n.SectionID  h3.t4s-section-title.t4s-title{\ncolor:white;\n}"
+        "code_cus_css": ".SectionID .heading-testimonials-star  {\n    width: 55%;\nmargin: 0 auto;\n}\n.SectionID  h3.t4s-section-title.t4s-title{\ncolor:white;\n}\n@media screen and (max-width:650px){\n.SectionID  .heading-testimonials-star {\n margin:0px !important;\n}\n.SectionID  .t4s-section-inner{\n  padding:0px !important;\n width:100%;\n}\n.SectionID  .heading-testimonials-star {\n width:100%;\n}\n.SectionID h3.t4s-section-title.t4s-title{\n font-size:18px;\n}\n}"
       }
     },
     "custom_html_4radLH": {
