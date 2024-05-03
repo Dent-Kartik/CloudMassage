@@ -409,6 +409,261 @@
         "use_cus_css": true,
         "code_cus_css": ".SectionID .outer-box{\ndisplay: flex;\n    justify-content: space-around;\n}"
       }
+    },
+    "custom_html_W6dyHJ": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<div class=\"t4s-text-center\">\n<h3 style=\"color:white;\">Prepping for Your Massage in 3 Simple Steps<\/h3>\n<\/div>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "image_bg": "shopify:\/\/shop_images\/download_19.jpg",
+        "mg": ",,50px,",
+        "pd": "30px,0,30px,0",
+        "mg_tb": "",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "custom_section_Nnx7cP": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_VH9AYQ": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#eceaf5"
+          }
+        },
+        "html_X4nnBE": {
+          "type": "html",
+          "settings": {
+            "html_content": "<video class=\"shogun-image\" preload=\"none\" playsinline=\"\" muted=\"\" loop=\"loop\" autoplay=\"autoplay\" height=\"\" width=\"100%\" webkit-playsinline=\"\">\n        <source type=\"video\/webm\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/e2fdfa952ed44341b2b3e63e4708c38b.webm\">\n        <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/f00400a4a4d04a8fa43221007b384276.mp4\">\n      <\/source><\/source><\/video>",
+            "hidden_mobile": false
+          }
+        },
+        "custom_text_p4TCeG": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Set Up with Ease",
+            "remove_br_tag": false,
+            "tag": "h4",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_nzGftw": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Plug the power cord into a nearby electrical outlet and adjust the bar to your preferred position.",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 14,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_TX9GiN": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#eceaf5"
+          }
+        },
+        "html_PKhmwd": {
+          "type": "html",
+          "settings": {
+            "html_content": "<video class=\"shogun-image\" preload=\"none\" playsinline=\"\" muted=\"\" loop=\"loop\" autoplay=\"autoplay\" height=\"\" width=\"100%\" webkit-playsinline=\"\">\n        <source type=\"video\/webm\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c2487e9f09524de5aefcffcd5241daf3.webm\">\n        <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/8144af5125a54c24b0eb934394e73cd7.mp4\">\n      <\/source><\/source><\/video>",
+            "hidden_mobile": false
+          }
+        },
+        "custom_text_8CVPLq": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Maximize Your Comfort",
+            "remove_br_tag": false,
+            "tag": "h4",
+            "fontf": "inherit",
+            "text_cl": "#0b0f0e",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_n8xQLx": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Find a comfortable seat, slip on your favorite pair of socks, and place your calves, ankles or feet into the massager.",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#0b0f0e",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "bl_col_EegQVx": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "4",
+            "col_tb": "4",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#eceaf5"
+          }
+        },
+        "html_RFHhhn": {
+          "type": "html",
+          "settings": {
+            "html_content": "<video class=\"shogun-image\" preload=\"none\" playsinline=\"\" muted=\"\" loop=\"loop\" autoplay=\"autoplay\" height=\"\" width=\"100%\" webkit-playsinline=\"\">\n        <source type=\"video\/webm\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/35a3bca8b04e451c8c733df982c75554.webm\">\n        <source type=\"video\/mp4\" src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/b8ec881075294b25bbac33b54c15d362.mp4\">\n      <\/source><\/source><\/video>",
+            "hidden_mobile": false
+          }
+        },
+        "custom_text_rtceew": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Customize Each Session",
+            "remove_br_tag": false,
+            "tag": "h4",
+            "fontf": "inherit",
+            "text_cl": "#0b0f0e",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_wE94pJ": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Turn your massager on to begin your session. Adjust the mode, temperature, and intensity as desired.",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#0b0f0e",
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_VH9AYQ",
+        "html_X4nnBE",
+        "custom_text_p4TCeG",
+        "custom_text_nzGftw",
+        "bl_col_TX9GiN",
+        "html_PKhmwd",
+        "custom_text_8CVPLq",
+        "custom_text_n8xQLx",
+        "bl_col_EegQVx",
+        "html_RFHhhn",
+        "custom_text_rtceew",
+        "custom_text_wE94pJ"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -417,6 +672,8 @@
     "sidebar-page",
     "image_text_3drk7m",
     "custom_section_DitBpF",
-    "custom_section_3VrrBa"
+    "custom_section_3VrrBa",
+    "custom_html_W6dyHJ",
+    "custom_section_Nnx7cP"
   ]
 }
