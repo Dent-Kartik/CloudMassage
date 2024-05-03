@@ -174,7 +174,7 @@
             "tag": "h3",
             "fontf": "inherit",
             "text_cl": "#000000",
-            "text_fs": 24,
+            "text_fs": 35,
             "text_lh": 0,
             "text_fw": 500,
             "text_ls": 0,
@@ -196,7 +196,7 @@
             "tag": "p",
             "fontf": "inherit",
             "text_cl": "#000000",
-            "text_fs": 14,
+            "text_fs": 18,
             "text_lh": 24,
             "text_fw": 400,
             "text_ls": 0,
@@ -224,7 +224,7 @@
             "second_cl": "#ffffff",
             "pri_cl_hover": "#433395",
             "second_cl_hover": "#fff",
-            "fsbutton": 14,
+            "fsbutton": 18,
             "fwbutton": 400,
             "button_ls": 0,
             "button_mh": 42,
@@ -259,7 +259,7 @@
         "html_Td74ee": {
           "type": "html",
           "settings": {
-            "html_content": "<iframe title=\"Embedded Youtube Video\" src=\"https:\/\/www.youtube.com\/embed\/PLgD-7zNMxY?start=0&amp;end=0&amp;autoplay=0&amp;loop=0&amp;rel=1\" class=\"shogun-video-embed\" allowfullscreen=\"\">\n      <\/iframe>",
+            "html_content": "<iframe title=\"Embedded Youtube Video\" src=\"https:\/\/www.youtube.com\/embed\/PLgD-7zNMxY?start=0&amp;end=0&amp;autoplay=0&amp;loop=0&amp;rel=1\" style=\"width:100%;height:100%;min-height:350px;\" allowfullscreen=\"\">\n      <\/iframe>",
             "hidden_mobile": false
           }
         }
@@ -289,6 +289,126 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "custom_section_3VrrBa": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_h8KiEA": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#eaeaea"
+          }
+        },
+        "custom_text_CqrYkj": {
+          "type": "custom_text",
+          "settings": {
+            "text": "3 Massage Styles",
+            "remove_br_tag": false,
+            "tag": "h3",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 5,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "html_y748ye": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"outer-box\">\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_16.png?v=1714749258\" class=\"\">\n<p class=\"\">Compression Therapy<\/p>\n<\/div>\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_15.png?v=1714749259\" class=\"\">\n<p class=\"\">Rolling Massage<\/p>\n<\/div>\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_14.png?v=1714749259\" class=\"\">\n<p class=\"\">Sway Function<\/p>\n<\/div>\n<\/div>",
+            "hidden_mobile": false
+          }
+        },
+        "bl_col_CcFcRy": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,,30px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#eaeaea"
+          }
+        },
+        "custom_text_zyVxc9": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Modify to Your Needs",
+            "remove_br_tag": false,
+            "tag": "h3",
+            "fontf": "inherit",
+            "text_cl": "#0b0f0e",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 15,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "html_V7AF7x": {
+          "type": "html",
+          "settings": {
+            "html_content": "<div class=\"outer-box\">\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_17.png?v=1714749716\" class=\"\">\n<p class=\"\">Adjustable Heat Function relieves tension<\/p>\n<\/div>\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_18.png?v=1714749715\" class=\"\">\n<p class=\"\">5 Intensity Levels alter massage pressure<\/p>\n<\/div>\n<div class=\"inner-box\">\n<img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0438\/6154\/1018\/files\/download_19.png?v=1714749715\" class=\"\">\n<p class=\"\">15-Minute Intervals for easy programming<\/p>\n<\/div>\n<\/div>",
+            "hidden_mobile": false
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_h8KiEA",
+        "custom_text_CqrYkj",
+        "html_y748ye",
+        "bl_col_CcFcRy",
+        "custom_text_zyVxc9",
+        "html_V7AF7x"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": true,
+        "code_cus_css": ".SectionID .outer-box{\ndisplay: flex;\n    justify-content: space-around;\n}"
+      }
     }
   },
   "order": [
@@ -296,6 +416,7 @@
     "main",
     "sidebar-page",
     "image_text_3drk7m",
-    "custom_section_DitBpF"
+    "custom_section_DitBpF",
+    "custom_section_3VrrBa"
   ]
 }
