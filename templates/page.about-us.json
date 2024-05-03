@@ -1393,7 +1393,7 @@
         "pd_tb": "",
         "mg_mb": "0,0,0,0",
         "pd_mb": "",
-        "use_cus_css": true,
+        "use_cus_css": false,
         "code_cus_css": ".SectionID"
       }
     },
@@ -1578,8 +1578,8 @@
         "pd_tb": "",
         "mg_mb": ",,30px,",
         "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
+        "use_cus_css": true,
+        "code_cus_css": "@media screen and (max-width:650px){\n.SectionID.t4s-section-inner.t4s_nt_se_template--16794674692250__custom_section_qL6PJA.t4s-container-wrap.t4s-has-imgbg.lazyloadt4sed{\n    background: none !important;\n}\n}"
       }
     }
   },
