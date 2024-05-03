@@ -1481,7 +1481,7 @@
         "cl_bg": "",
         "cl_bg_gradient": "",
         "image_bg": "shopify:\/\/shop_images\/download_6.jpg",
-        "mg": "",
+        "mg": "0,0,30px,0",
         "pd": "50px,50px,0px,50px",
         "mg_tb": "",
         "pd_tb": "",
