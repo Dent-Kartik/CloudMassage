@@ -990,32 +990,10 @@
             "mgb_mb": 20
           }
         },
-        "custom_text_7a9PAy": {
-          "type": "custom_text",
-          "settings": {
-            "text": "LOOKBOOK 2023",
-            "remove_br_tag": false,
-            "tag": "p",
-            "fontf": "inherit",
-            "text_cl": "#000000",
-            "text_fs": 24,
-            "text_lh": 0,
-            "text_fw": 500,
-            "text_ls": 0,
-            "font_italic": false,
-            "text_shadow": false,
-            "text_mgb": 5,
-            "hidden_mobile": false,
-            "text_fs_mb": 16,
-            "text_lh_mb": 0,
-            "text_ls_mb": 0,
-            "text_mgb_mobile": 10
-          }
-        },
         "custom_text_p3ixPF": {
           "type": "custom_text",
           "settings": {
-            "text": "<p>If you experience mild soreness and achiness at the end of a long day, we recommend:<\/p>\n\n<ul>\n<li>Using 1 time per day, preferably in the evening<\/li>\n<li>Opting for 15 minute, pre-programmed cycles<\/li>\n<li>Massaging about 20-30 minutes per area<\/li>\n<li>Selecting a lower intensity<\/li>\n<\/ul>",
+            "text": "<h4>LOOKBOOK 2023<\/h4>\n<p>If you experience mild soreness and achiness at the end of a long day, we recommend:<\/p>\n\n<ul>\n<li>Using 1 time per day, preferably in the evening<\/li>\n<li>Opting for 15 minute, pre-programmed cycles<\/li>\n<li>Massaging about 20-30 minutes per area<\/li>\n<li>Selecting a lower intensity<\/li>\n<\/ul>",
             "remove_br_tag": false,
             "tag": "div",
             "fontf": "inherit",
@@ -1074,7 +1052,6 @@
       "block_order": [
         "bl_col_RchmQT",
         "image_8pUCg6",
-        "custom_text_7a9PAy",
         "custom_text_p3ixPF",
         "bl_col_yBX88e",
         "newsletter_DyQQWY"
