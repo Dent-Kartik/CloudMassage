@@ -28,6 +28,7 @@
       "block_order": [
         "0553a192-f7d5-4c12-8232-b8fcd6c08676"
       ],
+      "disabled": true,
       "settings": {
         "heading_fullwidth": false,
         "use_specify_image": true,
@@ -122,6 +123,7 @@
       "block_order": [
         "bl_text_tLMBpY"
       ],
+      "disabled": true,
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
@@ -223,7 +225,7 @@
             "pri_cl": "#433395",
             "second_cl": "#ffffff",
             "pri_cl_hover": "#433395",
-            "second_cl_hover": "#fff",
+            "second_cl_hover": "#ffffff",
             "fsbutton": 18,
             "fwbutton": 400,
             "button_ls": 0,
@@ -729,18 +731,18 @@
             "ch_pos": 50,
             "cv_pos_mb": 50,
             "ch_pos_mb": 50,
-            "bg_overlay": "#000",
+            "bg_overlay": "#000000",
             "bg_opacity": 0,
             "bg_content_bl": false,
-            "bg_content_cl": "#fff",
+            "bg_content_cl": "#ffffff",
             "bg_content_op": 50,
             "content_pd_tb": 20,
             "content_pd_lr": 20,
             "content_pd_tb_mb": 10,
             "content_pd_lr_mb": 10,
             "border_bl": false,
-            "br_color": "#222",
-            "br_bg": "#fff",
+            "br_color": "#222222",
+            "br_bg": "#ffffff",
             "br_opacity": 50,
             "br_style": "solid",
             "br_pd": 20,
@@ -1038,11 +1040,11 @@
             "newl_size": "small",
             "btn_icon": false,
             "input_cl": "#878787",
-            "border_cl": "#000",
+            "border_cl": "#000000",
             "btn_cl": "#ffffff",
             "btn_bg_cl": "#222222",
             "btn_hover_cl": "#ffffff",
-            "btn_hover_bg_cl": "#56CFE1",
+            "btn_hover_bg_cl": "#56cfe1",
             "hidden_mobile": false,
             "mgb": 15,
             "mgb_mb": 10
@@ -1056,6 +1058,7 @@
         "bl_col_yBX88e",
         "newsletter_DyQQWY"
       ],
+      "disabled": true,
       "settings": {
         "space_h_item": "30",
         "space_v_item": "30",
