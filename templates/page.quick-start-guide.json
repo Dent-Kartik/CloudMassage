@@ -1058,7 +1058,6 @@
         "bl_col_yBX88e",
         "newsletter_DyQQWY"
       ],
-      "disabled": true,
       "settings": {
         "space_h_item": "30",
         "space_v_item": "30",
@@ -1075,7 +1074,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID .t4s-w-100{\n display:flex;\n}\n.SectionID .t4s-col-inner{\nborder-radius:100px;\n}"
+        "code_cus_css": ".SectionID .t4s-w-100{\n display:flex;\n}\n.SectionID .t4s-col-inner{\nborder-radius:100px;\n}\n.SectionID .t4s-w-100 {\n    flex-basis: 17%;\n}\n.SectionID p,.SectionID li{\n    font-size: 18px;\n    line-height: 24px;\n}\n.SectionID h4{\nfont-size:24px;\n}"
       }
     }
   },
