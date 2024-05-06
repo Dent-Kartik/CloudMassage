@@ -1200,7 +1200,7 @@
         "mg_mb": ",,30px,",
         "pd_mb": "",
         "use_cus_css": true,
-        "code_cus_css": ".SectionID .t4s-w-100{\n display:flex;\n}\n.SectionID .t4s-col-inner{\nborder-radius:100px;\n}\n.SectionID .t4s-w-100 .t4s-img-child{\n    flex-basis: 20%;\n}\n.SectionID ul{\nlist-style: disc;\n}\n.SectionID p,.SectionID li{\n    font-size: 18px;\n    line-height: 24px;\n}\n.SectionID h4{\nfont-size:24px;\n}"
+        "code_cus_css": ".SectionID .t4s-w-100{\n display:flex;\n}\n.SectionID .t4s-col-inner{\nborder-radius:100px;\n}\n.SectionID .t4s-w-100 .t4s-img-child{\n    flex-basis: 20%;\n}\n.SectionID ul{\nlist-style: disc;\n}\n.SectionID p,.SectionID li{\n    font-size: 18px;\n    line-height: 24px;\n}\n.SectionID h4{\nfont-size:24px;\n}\n.SectionID \n a#b_custom_button_9EH7Tx {\n    margin: 0 auto;\n    min-width: 200px;\n}"
       }
     }
   },
