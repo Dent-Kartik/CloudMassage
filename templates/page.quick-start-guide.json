@@ -1202,6 +1202,93 @@
         "use_cus_css": true,
         "code_cus_css": ".SectionID .t4s-w-100{\n display:flex;\n}\n.SectionID .t4s-col-inner{\nborder-radius:100px;\n}\n.SectionID .t4s-w-100 .t4s-img-child{\n    flex-basis: 20%;\n}\n.SectionID ul{\nlist-style: disc;\n}\n.SectionID p,.SectionID li{\n    font-size: 18px;\n    line-height: 24px;\n}\n.SectionID h4{\nfont-size:24px;\n}\n.SectionID \n a#b_custom_button_9EH7Tx {\n    margin: 0 auto;\n    min-width: 200px;\n}\n@media screen and (max-width:650px){\n.SectionID .t4s-w-100{\nflex-direction: column;\n        padding: 0 30px;\n}\n.SectionID p,.SectionID li{\n    font-size: 16px;\n    line-height: 24px;\n}\n.SectionID h4{\nfont-size:20px;\n}\n.SectionID \n a#b_custom_button_9EH7Tx {\n    margin-top:20px;\n}\n}"
       }
+    },
+    "custom_section_GfeQ3t": {
+      "type": "custom-section",
+      "blocks": {
+        "bl_col_DKEbq3": {
+          "type": "bl_col",
+          "settings": {
+            "col_dk": "12",
+            "col_tb": "12",
+            "col_mb": "12",
+            "align_vertical": false,
+            "content_align": "center",
+            "content_align_tablet": "center",
+            "content_align_mobile": "center",
+            "padding_inner": "30px,50px,30px,50px",
+            "padding_inner_tb": "",
+            "padding_inner_mb": "",
+            "bg_cl": "#ececec"
+          }
+        },
+        "custom_text_Y6bmqm": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Questions?",
+            "remove_br_tag": false,
+            "tag": "h4",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 24,
+            "text_lh": 0,
+            "text_fw": 500,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 20,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        },
+        "custom_text_UWXDHG": {
+          "type": "custom_text",
+          "settings": {
+            "text": "Our responsive customer service team is 100% committed to ensuring the best experience possible when purchasing a massager. If you have any questions about how to use your Cloud Massage massager, please contact us and we will respond within 24 hours!",
+            "remove_br_tag": false,
+            "tag": "p",
+            "fontf": "inherit",
+            "text_cl": "#000000",
+            "text_fs": 18,
+            "text_lh": 24,
+            "text_fw": 400,
+            "text_ls": 0,
+            "font_italic": false,
+            "text_shadow": false,
+            "text_mgb": 0,
+            "hidden_mobile": false,
+            "text_fs_mb": 16,
+            "text_lh_mb": 0,
+            "text_ls_mb": 0,
+            "text_mgb_mobile": 10
+          }
+        }
+      },
+      "block_order": [
+        "bl_col_DKEbq3",
+        "custom_text_Y6bmqm",
+        "custom_text_UWXDHG"
+      ],
+      "settings": {
+        "space_h_item": "30",
+        "space_v_item": "30",
+        "space_h_item_mb": "10",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_tb": ",,50px,",
+        "pd_tb": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -1217,6 +1304,7 @@
     "banner_3UiYMD",
     "image_text_Xhe8tm",
     "image_text_ViwPTf",
-    "custom_section_CmM9Rn"
+    "custom_section_CmM9Rn",
+    "custom_section_GfeQ3t"
   ]
 }
