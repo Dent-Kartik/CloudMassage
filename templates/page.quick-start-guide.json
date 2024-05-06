@@ -978,9 +978,9 @@
         "custom_text_rgB6cd": {
           "type": "custom_text",
           "settings": {
-            "text": "When to use your Cloud Massage Shiatsu Massager",
+            "text": "<h3 style=\"text-align:center;color:white;margin:0 auto;\">When to use your Cloud Massage Shiatsu Massager<\/h3>",
             "remove_br_tag": false,
-            "tag": "h3",
+            "tag": "div",
             "fontf": "inherit",
             "text_cl": "#ffffff",
             "text_fs": 16,
