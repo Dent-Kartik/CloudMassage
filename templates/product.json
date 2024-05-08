@@ -148,7 +148,7 @@
             "compare_color_hover": "#ffffff",
             "compare_color_active": "#222222",
             "show_dynamic_checkout": true,
-            "btn_txt2": "2",
+            "btn_txt2": "3",
             "button_color_payment": "custom1",
             "show_gift_card_recipient": false,
             "product_list": [
