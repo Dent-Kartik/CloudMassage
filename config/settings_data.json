@@ -1359,7 +1359,6 @@
           },
           "25fa7ecf-2db0-4747-b093-a1299099917e": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "About Us",
               "url": "shopify:\/\/pages\/about-us",
@@ -1375,8 +1374,8 @@
             "type": "menu",
             "disabled": true,
             "settings": {
-              "title": "Why Permethrin?",
-              "url": "shopify:\/\/pages\/permethrin-repellent-spray",
+              "title": "Contact Us",
+              "url": "shopify:\/\/pages\/contact-us",
               "open_link": "_self",
               "menu": "",
               "lb": "",
