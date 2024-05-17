@@ -1372,7 +1372,6 @@
           },
           "58800ed8-befe-449a-b8f8-ea86620bef6f": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "Contact Us",
               "url": "shopify:\/\/pages\/contact-us",
