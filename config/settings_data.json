@@ -1359,6 +1359,7 @@
           },
           "25fa7ecf-2db0-4747-b093-a1299099917e": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Why Picaridin?",
               "url": "shopify:\/\/pages\/what-is-picaridin",
@@ -1372,6 +1373,7 @@
           },
           "58800ed8-befe-449a-b8f8-ea86620bef6f": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Why Permethrin?",
               "url": "shopify:\/\/pages\/permethrin-repellent-spray",
@@ -1385,6 +1387,7 @@
           },
           "mb_nav-3": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "About Us",
               "url": "shopify:\/\/pages\/about-us",
