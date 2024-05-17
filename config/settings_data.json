@@ -1361,8 +1361,8 @@
             "type": "menu",
             "disabled": true,
             "settings": {
-              "title": "Why Picaridin?",
-              "url": "shopify:\/\/pages\/what-is-picaridin",
+              "title": "About Us",
+              "url": "shopify:\/\/pages\/about-us",
               "open_link": "_self",
               "menu": "",
               "lb": "",
