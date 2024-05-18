@@ -498,7 +498,7 @@
           "html_pU73Rw"
         ],
         "custom_css": [
-
+          ".t4s-newsletter__fields {width: 100%;}"
         ],
         "settings": {
           "sticky": false,
