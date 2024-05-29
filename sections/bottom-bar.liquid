@@ -54,7 +54,7 @@
                             <ul class="t4s-footer-linklist" role="list">
                                 {%- for link in bk_stts.menu.links -%}
                                 <li>
-                                    <a href="{{ link.url }}" class="t4s-footer-link {% if link.current %}t4s-footer-link-active{% endif %}" {% if link.current%}  aria-current="page" {% endif %} role="button">
+                                    <a href="{{ link.url }}" class="t4s-footer-link {% if link.current %}t4s-footer-link-active{% endif %}" {% if link.current%}  aria-current="page" {% endif %}>
                                     {{ link.title | escape }}
                                     </a>
                                 </li>
