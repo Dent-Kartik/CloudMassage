@@ -89,7 +89,7 @@ assign formId          = 'ContactFormNotify' | append: product_variant.id
        </div>
        {%- endif -%}
        <div class="t4s-product-notify-stock__infos">
-         <div class="t4s-product-notify-stock__title">{{ product.title | escape }}</div>
+         <div class="t4s-product-notify-stock__title" role="heading" aria-level="2">{{ product.title | escape }}</div>
          {%- unless product.has_only_default_variant -%}
           <p class="t4s-product-notify-stock__variant">
             {%- for product_option in product.options_with_values -%}
@@ -108,18 +108,19 @@ assign formId          = 'ContactFormNotify' | append: product_variant.id
     <h3 class="t4s-text-center">{{ 'products.notify_stock.title' | t }}</h3>
     {%- if customer and customer.name != blank -%}
     <p class="t4s-d-none">
-        <label for="{{ formId }}-name">Name</label>
+        <label for="{{ formId }}-name">Name*</label>
         <input type="text" id="{{ formId }}-name" name="contact[name]" required="required" value="{% if form[name] %}{{ form[name] }}{% elsif customer %}{{ customer.name }}{% endif %}">
     </p>
     {%- endif -%}
     <p>
-        <label for="{{ formId }}-email">{{ 'products.notify_stock.email' | t }}</label>
+        <label for="{{ formId }}-email">{{ 'products.notify_stock.email' | t }}*</label>
         <input
           type="email"
           id="{{ formId }}-email"
           name="contact[email]"
           autocorrect="off"
           autocapitalize="off"
+          autocomplete="email" 
           value="{% if form.email %}{{ form.email }}{% elsif customer %}{{ customer.email }}{% endif %}"
           aria-required="true"
           required="required"
