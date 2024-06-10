@@ -17,7 +17,7 @@
 				    assign pr_url = product.url
 						assign image = product.featured_media | default: placeholder_img
 					 -%}
-		       	<div class="t4s-minicart-recommendations__item t4s-col-item">
+		       	<div class="t4s-minicart-recommendations__item t4s-col-item" {% if forloop.index > 1 %}tabindex="-1"{% endif %}>
 		       		<div class="t4s-row t4s-g-0 t4s-align-items-center">
 						<div class="t4s-col-item t4s-col-auto t4s-minicart-recommendations__item--img">
 							{%- if image != blank -%}
